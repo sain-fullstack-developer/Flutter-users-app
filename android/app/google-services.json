@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015539356115",
+    "firebase_url": "https://users-ola-app-default-rtdb.firebaseio.com",
+    "project_id": "users-ola-app",
+    "storage_bucket": "users-ola-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015539356115:android:e21a10713d7886dc221f26",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.users_ola_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015539356115-sbjs7fu557khe21sn8e9bomgccavonjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmpTg8gs1wDlj3GngeKto5mVfmL1xc9k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015539356115-sbjs7fu557khe21sn8e9bomgccavonjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015539356115-6npipn1faf1lkpkao7d3vs8cmr6qikh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.google.firebase.presents.usersOlaApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

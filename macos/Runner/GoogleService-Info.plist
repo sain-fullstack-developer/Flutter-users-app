@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1015539356115-6npipn1faf1lkpkao7d3vs8cmr6qikh8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1015539356115-6npipn1faf1lkpkao7d3vs8cmr6qikh8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVefc1zG0so69ypt6t_qavsqJ6xwLOdYA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1015539356115</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.google.firebase.presents.usersOlaApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>users-ola-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>users-ola-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015539356115:ios:42408174472e6113221f26</string>
+</dict>
+</plist>
